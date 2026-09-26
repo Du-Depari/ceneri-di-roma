@@ -1,0 +1,12 @@
+[
+  {"id":"ventrue","name":"Ventrue","symbol":"V", "img":"ventrue.png","description":"A linhagem do poder, da administração e da autoridade. Presença dominante no Consilium."},
+  {"id":"lasombra","name":"Lasombra","symbol":"☾", "img": "lasombra.png","description":"Senhores das sombras e do comércio. Sua influência se estende por partes importantes da cidade."},
+  {"id":"toreador","name":"Toreador","symbol":"✧","img":"toreador.png","description":"Ligados à arte, beleza e Elysium. A corte de Tália preserva tradições próprias."},
+  {"id":"nosferatu","name":"Nosferatu","symbol":"☠","img":"nosferatu.png","description":"Habitantes das margens e dos lugares que Roma prefere não enxergar."},
+  {"id":"brujah","name":"Brujah","symbol":"⚔","img":"brujah.png","description":"Uma linhagem de antigas tradições militares, hoje reduzida em influência na cidade."},
+  {"id":"malkavian","name":"Malkavian","symbol":"☿","img":"malkavian.png","description":"Vozes, presságios e perspectivas que nem sempre obedecem à lógica dos vivos."},
+  {"id":"tremere","name":"Tremere","symbol":"△","img":"tremere.png","description":"Uma presença recente e singular na cidade. Há apenas um representante estabelecido."},
+  {"id":"tzimisce","name":"Tzimisce","symbol":"♜","img":"tzimisce.png","description":"Uma linhagem quase ausente da região. Um único nome é conhecido nos arredores de Roma."},
+  {"id":"gangrel","name":"Gangrel","symbol":"♧","img":"gangrel.png","description":"Três Cainitas mantêm um feudo agrícola fora das muralhas, sob acordo com o Consilium."}
+]
+  

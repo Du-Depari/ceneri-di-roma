@@ -1,0 +1,127 @@
+{
+  "id": "consilium",
+  "eyebrow": "A ORDEM DA CIDADE",
+  "title": "Consilium Nocturnum",
+  "number": "I",
+  "intro": "Fundado oficialmente em 512, o Consilium Nocturnum é a autoridade Cainita reconhecida em Roma. Sete cadeiras compõem sua estrutura, embora nem todas estejam ocupadas atualmente.",
+  "seats": [
+  {
+  "id": "princeps",
+  "name": "PRINCEPS",
+  "symbol": "☉",
+  "title": "A voz de Roma",
+  "description": "O Príncipe representa Roma perante todos os demais domínios e possui a autoridade final sobre a cidade.",
+  "responsibilities": [
+    "Declarar leis",
+    "Julgar crimes graves",
+    "Conceder domínio",
+    "Reconhecer novos habitantes",
+    "Declarar guerras",
+    "Assumir a responsabilidade final pelas decisões do Consilium"
+  ],
+  "principle": "Embora possua enorme autoridade, o Princeps dificilmente governa sozinho. Seu maior dever é preservar Roma para as próximas gerações.",
+  "personId":"aulus-severianus",
+  "featured":true
+},
+{
+"id": "dapfier",
+"name": "DAPFIER",
+"symbol": "♃",
+"title": "A mão que mantém Roma funcionando.",
+"description": "O Senescal garante que as decisões do Conselho sejam executadas.",
+"responsibilities": [
+  "Administrar a burocracia do domínio;",
+  "Organizar reuniões do Conselho",
+  "Supervisionar arrecadações e tributos",
+  "Resolver disputas menores",
+  "Substituir o Príncipe durante ausências ou torpor"
+],
+"principle": "É considerado o administrador da cidade.",
+"personId":"quintus-valerius"
+},
+{
+"id": "custus-elysii",
+"name": "CUSTOS ELYSII",
+"symbol": "♀",
+"title": "Onde termina a guerra.",
+"description": "Responsável por todo território declarado Elísio.",
+"responsibilities": [
+  "Garantir a neutralidade dos Elísios",
+  "Assegurar proteção aos convidados",
+  "Organizar cerimônias oficiais.",
+  "Mediar encontros diplomáticos.",
+  "Preservar obras de arte e patrimônios da sociedade vampírica."
+],
+"principle": "Violar sua autoridade é considerado uma afronta à própria civilização cainita.",
+"personId":"talia"
+},
+{
+"id": "harpy",
+"name": "HARPY",
+"symbol": "☽",
+"title": "Nada permanece oculto para Roma.",
+"description": "Jamais confunda a Hapy com um fofoqueiro. A Harpy controla o capital social da cidade.",
+"responsibilities": [
+  "Registrar favores",
+  "Preservar reputações",
+  "Espalhar ou conter rumores.",
+  "Identificar mentiras.",
+  "manter a memória política da cidade."
+],
+"principle": "Em Roma, a Harpia pode destruir um vampiro sem derramar uma única gota de sangue.",
+"personId":"corvus"
+},
+{
+"id": "manus-hominum",
+"name": "MANUS HOMINUM",
+"symbol": "♄",
+"title": "Quem controla os mortais controla a cidade.",
+"description": "Responsável pela influência sobre o mundo humano.",
+"responsibilities": [
+  "Comércio",
+  "famílias nobres",
+  "Guildas",
+  "Igreja",
+  "Universidades",
+  "Rotas comerciais",
+  "Bancos e arrecadação"
+],
+"principle":"Também coordena ghouls e agentes mortais ligados ao Conselho. Seu poder raramente é visto. Mas é sentido diariamente.",
+"personId":"octavius"
+},
+{
+"id": "praefectus-vigilium",
+"name": "PRAEFECTUS VIGILUM",
+"symbol": "♂",
+"title": "A espada desembainhada de Roma.",
+"description": "Chefe da segurança do domínio.",
+"responsibilities": [
+  "Investigar violações da Tradição",
+  "Caçar criminosos",
+  "Patrulhar a cidade",
+  "Proteger membros do Conselho quando necessário;",
+  "Comandar os executores do Príncipe"
+],
+"principle":"É quem resolve problemas quando a diplomacia falha.",
+"personId":"galeazzo"
+},
+{
+"id": "bibliothecarius",
+"name": "BIBLIOTHECARIUS",
+"symbol": "☿",
+"title": "Que Roma jamais esqueça.",
+"description": "A cadeira mais misteriosa. Não representa um clã. Representa o conhecimento.",
+"responsibilities": [
+  "Preservar manuscritos;",
+  "Catalogar relíquias",
+  "Estudar fenômenos sobrenaturais",
+  "Manter registros históricos",
+  "Aconselhar os pares em assuntos ocultos",
+  "Guardar segredos que não devem ser conhecidos"
+],
+"principle":"É quem resolve problemas quando a diplomacia falha.",
+"personId":"",
+"empty":true
+}
+  ]
+}
