@@ -679,8 +679,51 @@ footer {
 .lineage-item{display:flex;align-items:center;gap:1rem}
 .lineage-item .node{min-width:190px}
 .modal-backdrop{position:fixed;inset:0;z-index:1000;background:rgba(8,7,6,.82);backdrop-filter:blur(5px);display:grid;place-items:center;padding:1rem}
-.modal{position:relative;width:min(620px,100%);max-height:90vh;overflow:auto;background:#191512;color:#e8dfd0;border:1px solid rgba(168,139,87,.55);box-shadow:0 25px 80px rgba(0,0,0,.55);padding:2.4rem}
-.modal::before{content:"";position:absolute;inset:8px;border:1px solid rgba(168,139,87,.12);pointer-events:none}
+.modal {
+  position: relative;
+
+  width: min(620px, 100%);
+  max-height: 90vh;
+
+  background: #191512;
+  color: #e8dfd0;
+
+  border: 1px solid rgba(168, 139, 87, .55);
+
+  box-shadow: 0 25px 80px rgba(0, 0, 0, .55);
+
+  /* espaço reservado para a moldura */
+  padding: 9px;
+
+  overflow: hidden;
+}
+
+
+/* Moldura fixa */
+.modal::before {
+  content: "";
+
+  position: absolute;
+  inset: 8px;
+
+  border: 1px solid rgba(168, 139, 87, .12);
+
+  pointer-events: none;
+
+  z-index: 10;
+}
+
+
+/* Área que realmente rola */
+.modal-scroll {
+  position: relative;
+
+  max-height: calc(90vh - 18px);
+
+  overflow-y: auto;
+
+  padding: 2.4rem;
+}
 .modal-close{position:absolute;top:12px;right:16px;border:0;background:none;color:#bba579;font-size:2rem;cursor:pointer;line-height:1}
 .modal-avatar{margin-bottom:1.2rem}
 .modal-kicker{display:block;color:#b89a63;font-size:.72rem;letter-spacing:.18em;font-weight:700}

@@ -687,6 +687,7 @@ function showPerson(personId) {
       aria-modal="true"
       aria-label="${esc(person.name)}"
     >
+    <div class="modal-scroll">
 
       <button
         class="modal-close"
@@ -723,7 +724,7 @@ function showPerson(personId) {
       </div>
 
       ${genealogyHtml}
-
+    </div>
     </div>
   `;
 

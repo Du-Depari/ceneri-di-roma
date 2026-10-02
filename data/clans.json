@@ -7,6 +7,6 @@
   {"id":"malkavian","name":"Malkavian","symbol":"☿","img":"malkavian.png","description":"Vozes, presságios e perspectivas que nem sempre obedecem à lógica dos vivos."},
   {"id":"tremere","name":"Tremere","symbol":"△","img":"tremere.png","description":"Uma presença recente e singular na cidade. Há apenas um representante estabelecido."},
   {"id":"tzimisce","name":"Tzimisce","symbol":"♜","img":"tzimisce.png","description":"Uma linhagem quase ausente da região. Um único nome é conhecido nos arredores de Roma."},
-  {"id":"gangrel","name":"Gangrel","symbol":"♧","img":"gangrel.png","description":"Três Cainitas mantêm um feudo agrícola fora das muralhas, sob acordo com o Consilium."}
+  {"id":"gangrel","name":"Gangrel","symbol":"♧","img":"gangrel.png","description":"Cainitas ligados a natureza. Eles mantêm um feudo fora das muralhas, sob acordo com o Consilium."}
 ]
   

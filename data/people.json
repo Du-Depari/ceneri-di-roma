@@ -163,13 +163,13 @@
     "wasPresented": true
   },
   {
-    "id": "euripedis",
-    "name": "Euripedis",
+    "id": "euripidis",
+    "name": "Euripidis",
     "clan": "tremere",
     "role": "Doceira",
     "age": "Ancilla",
     "initials": "E",
-    "img": "euripedis.png",
+    "img": "euripidis.png",
     "summary": "Primeiro Tremere estabelecido em Roma, determinado a criar uma capela na cidade.",
     "details": "",
     "sireId": null,
@@ -587,6 +587,21 @@
     "descendantIds": [],
     "isNPC": true,
     "wasPresented": true
+  },
+  {
+    "id": "lobo",
+    "name": "Lobo",
+    "clan": "gangrel",
+    "role": "Protetor Antigo",
+    "age": "Elder",
+    "initials": "L",
+    "img": "lobo.jpg",
+    "summary": "Antigo Gangrel que protegia algo em San Castillo, ou protegia San Castillo de algo. Sua presença em Roma é desconhecida.",
+    "details": "Lobo foi encontrado pelos personagens durante a viagem até San Castillo, antes do encontro com O Sétimo. Após ser derrotado, os personagens decidiram não destruí-lo. Em vez disso, colocaram-no em torpor e o transportaram secretamente para Roma.\n\nSua existência permanece desconhecida para a sociedade Cainita romana. Para evitar que sua presença levantasse suspeitas, Lobo foi mantido escondido nos calabouços pertencentes a Belissarius.\n\nDesde então, permanece em torpor, isolado do mundo e sob custódia dos personagens. Sua verdadeira história, suas motivações e a razão pela qual se encontrava no caminho de San Castillo ainda permanecem ligadas aos acontecimentos daquela noite.",
+    "sireId": "",
+    "descendantIds": [],
+    "isNPC": true,
+    "wasPresented": false
   }
 
 ]
